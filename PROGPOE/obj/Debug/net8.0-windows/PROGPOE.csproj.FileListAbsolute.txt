@@ -1,0 +1,25 @@
+C:\Users\RC_Student_lab\source\repos\PROGPOE\bin\Debug\net8.0-windows\PROGPOE.exe
+C:\Users\RC_Student_lab\source\repos\PROGPOE\bin\Debug\net8.0-windows\PROGPOE.deps.json
+C:\Users\RC_Student_lab\source\repos\PROGPOE\bin\Debug\net8.0-windows\PROGPOE.runtimeconfig.json
+C:\Users\RC_Student_lab\source\repos\PROGPOE\bin\Debug\net8.0-windows\PROGPOE.dll
+C:\Users\RC_Student_lab\source\repos\PROGPOE\bin\Debug\net8.0-windows\PROGPOE.pdb
+C:\Users\RC_Student_lab\source\repos\PROGPOE\obj\Debug\net8.0-windows\Academic Finance.g.cs
+C:\Users\RC_Student_lab\source\repos\PROGPOE\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\RC_Student_lab\source\repos\PROGPOE\obj\Debug\net8.0-windows\PC.g.cs
+C:\Users\RC_Student_lab\source\repos\PROGPOE\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\RC_Student_lab\source\repos\PROGPOE\obj\Debug\net8.0-windows\PROGPOE_MarkupCompile.cache
+C:\Users\RC_Student_lab\source\repos\PROGPOE\obj\Debug\net8.0-windows\PROGPOE_MarkupCompile.lref
+C:\Users\RC_Student_lab\source\repos\PROGPOE\obj\Debug\net8.0-windows\Academic Finance.baml
+C:\Users\RC_Student_lab\source\repos\PROGPOE\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\RC_Student_lab\source\repos\PROGPOE\obj\Debug\net8.0-windows\PC.baml
+C:\Users\RC_Student_lab\source\repos\PROGPOE\obj\Debug\net8.0-windows\PROGPOE.g.resources
+C:\Users\RC_Student_lab\source\repos\PROGPOE\obj\Debug\net8.0-windows\PROGPOE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\source\repos\PROGPOE\obj\Debug\net8.0-windows\PROGPOE.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\source\repos\PROGPOE\obj\Debug\net8.0-windows\PROGPOE.AssemblyInfo.cs
+C:\Users\RC_Student_lab\source\repos\PROGPOE\obj\Debug\net8.0-windows\PROGPOE.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\PROGPOE\obj\Debug\net8.0-windows\PROGPOE.sourcelink.json
+C:\Users\RC_Student_lab\source\repos\PROGPOE\obj\Debug\net8.0-windows\PROGPOE.dll
+C:\Users\RC_Student_lab\source\repos\PROGPOE\obj\Debug\net8.0-windows\refint\PROGPOE.dll
+C:\Users\RC_Student_lab\source\repos\PROGPOE\obj\Debug\net8.0-windows\PROGPOE.pdb
+C:\Users\RC_Student_lab\source\repos\PROGPOE\obj\Debug\net8.0-windows\PROGPOE.genruntimeconfig.cache
+C:\Users\RC_Student_lab\source\repos\PROGPOE\obj\Debug\net8.0-windows\ref\PROGPOE.dll

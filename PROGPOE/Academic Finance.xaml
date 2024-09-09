@@ -1,0 +1,20 @@
+﻿<Window x:Class="PROGPOE.Academic_Finance"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PROGPOE"
+        mc:Ignorable="d"
+        Title="Academic_Finance" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="199,21,0,0" TextWrapping="Wrap" Text="ACADEMIC FINANCE" VerticalAlignment="Top" Width="258" Height="64" FontWeight="Bold" FontSize="20"/>
+        <TextBlock HorizontalAlignment="Left" Margin="44,85,0,0" TextWrapping="Wrap" Text="Days Worked" VerticalAlignment="Top" FontWeight="Bold" FontSize="15" Width="113"/>
+        <TextBlock HorizontalAlignment="Left" Margin="44,139,0,0" TextWrapping="Wrap" Text="Days Sick" VerticalAlignment="Top" Width="91" Height="30" FontWeight="Bold" FontSize="15"/>
+        <TextBlock HorizontalAlignment="Left" Margin="44,185,0,0" TextWrapping="Wrap" Text="Hour Rate" VerticalAlignment="Top" FontWeight="Bold" FontSize="15" Width="91" Height="32"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="355,321,0,0" VerticalAlignment="Top" Width="102" Height="69"/>
+        <TextBox HorizontalAlignment="Left" Margin="280,85,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="126"/>
+        <TextBox HorizontalAlignment="Left" Margin="275,139,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="131"/>
+        <TextBox HorizontalAlignment="Left" Margin="275,192,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="131"/>
+
+    </Grid>
+</Window>
